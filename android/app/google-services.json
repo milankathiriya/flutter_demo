@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515025848618",
+    "project_id": "evening-6pm-app",
+    "storage_bucket": "evening-6pm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515025848618:android:d097f0cdde9c99c3a4f653",
+        "android_client_info": {
+          "package_name": "com.example.firebase_6_pm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515025848618-omsv5rlm3ei0i95ljl7iplkg20jm7npv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_6_pm_app",
+            "certificate_hash": "4a552796afdab90880378dd90afcd040497756ec"
+          }
+        },
+        {
+          "client_id": "515025848618-ovla3a72s3v1gv7q50m9vhk6cdkq0toc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0_xweUQbYfYjNcrYFWm1G8j_LQDhWms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515025848618-ovla3a72s3v1gv7q50m9vhk6cdkq0toc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
