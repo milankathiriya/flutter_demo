@@ -1,6 +1,18 @@
 # firebase_6_pm_app
 
 ---
+1. Goto your project folder.
+2. Open Terminal/CMD
+3. git init
+4. git add [file/folder/path/.]
+5. git commit -m "your_message"
+6. git push -u origin [master/branch_name]  OR  git push
+7. Do some changes
+8. git status
+9. goto step-4
+10. git status
+11. For download/clone, git clone [remote_address]
+12. For download only new changes, git pull
 ---
 
 A new Flutter project.
